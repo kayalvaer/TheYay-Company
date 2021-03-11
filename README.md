@@ -4,11 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Project Mock-up](src/assets/theyay.png)
 
+#### Wireframes:
+
+- Paper wireframes and Mockup on figma was designed for the project. Most of the work was done on paper because of the strategic placing of the board nodes which were challenging.The mockups were designed with
+1. Initial design 
+[Prototypes Figma](https://xd.adobe.com/view/3477bb00-17ee-45c2-a187-c128435bd8b1-6124/) 
+
 ## Languages and Libraries used
 
-React
-Sass / Scss
-Bootstrap
+- JSReact
+- Sass / Scss
+- Bootstrap
 
 
 ### `npm start`
