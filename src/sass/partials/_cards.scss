@@ -1,0 +1,16 @@
+.card, .card-img {
+    border-radius: 10px;
+}
+.newscards{
+    background-image: radial-gradient(circle, #ffffff, #e5e5e5);
+}
+.btn_news{
+    position: relative;
+    text-transform: uppercase;
+    background: linear-gradient(to right, #e92569 90%, #767676 10% 100%);
+    border: none;
+
+    &:hover{
+        color: $colour-black;
+    }
+}

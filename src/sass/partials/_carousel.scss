@@ -1,0 +1,26 @@
+.carousel-indicators li{
+    height: 30px;
+
+}
+
+.carousel-control-prev, .carousel-control-next {
+    display: none;
+}
+
+.carousel-indicators .active{
+    background-color: #e92569;
+}
+.heroImgs{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 0;
+    margin: 0;
+
+    @media (min-width:576px){
+        .heroImg{
+            margin: 0;
+        }
+    }
+    
+}

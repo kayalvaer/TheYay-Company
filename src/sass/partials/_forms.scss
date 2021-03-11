@@ -1,0 +1,28 @@
+.formArea{
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
+    top: 20px;
+    margin-bottom: 100px;
+    padding-bottom: 30px;
+    background-color: $colour-light;
+}
+.formRight nav{
+    color:#c7c7c7;
+}
+.fa.fa-phone, .fa.fa-map-marker, .fa.fa-envelope{
+    font-size: 25px;
+    color: $colour-gray;
+} 
+body, .hero{
+    background-image: radial-gradient(circle, #ffffff, #e5e5e5);
+}
+.btn-dont-buy{
+    background-color: $colour-gray;
+    color: $colour-white;
+    border-radius: 2px;
+
+    &:hover{
+        color: $colour-white;
+    }
+}
+
+ 

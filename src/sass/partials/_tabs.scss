@@ -1,0 +1,29 @@
+.tab-content{
+    background-color: $colour-white;
+    padding: 0.5em;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(168, 116, 116, 0.05);
+    margin-top: -8px;
+}
+.accordion-icons a, .FormIcons a {
+    margin-right:6px;
+    color: #0a0a0a;
+    
+}
+.tab_Acc{
+    border-radius: 2px;
+    padding: 3px;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item-show .nav-link {
+    color:$colour-gray;
+    background-color: $colour-white;
+    border-color: $colour-white;
+    
+}
+.bodyImg{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}

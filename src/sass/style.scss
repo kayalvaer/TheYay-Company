@@ -1,0 +1,39 @@
+/* @import "custom"; */
+//Custom
+$colour-secondary: #c7c7c7;
+$colour-input: #ffffff;
+$colour-white: #ffffff;
+$colour-primary: #e92569;
+$colour-light: #efefef;
+$colour-black:  #0a0a0a;
+$colour-gray: #767676;
+
+//bootstrap
+$theme-colors: (
+    "primary": $colour-primary,
+    "dark": $colour-gray,
+    "light": $colour-light,
+    "info": $colour-secondary,
+);
+
+$input-bg: $colour-input;
+$input-border-colour: $colour-input;
+$border-radius: 2px;
+//input plaseholder
+$input-placeholder-color: #fff;
+$input-placeholder-color: #fff;
+//fonts
+$font-family-base: 'Lato', sans-serif;
+$heading-font-family: 'Playfair Display', serif;
+$logo-font-family: 'Playfair Display', serif;
+$headings-colour: $colour-primary;
+
+@import "~bootstrap/scss/bootstrap";
+@import "./partials/nav";
+@import "./partials/forms";
+@import "./partials/tabs";
+@import "./partials/cards";
+@import "./partials/jumbo";
+@import "./partials/inputGroup";
+@import "./partials/carousel";
+@import "./partials/footerInfo";
