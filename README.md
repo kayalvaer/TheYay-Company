@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Scss. It was a milestone project which fulfills part of the requirement for Noroff Institute module in CSS frameworks. 
 
-![Project Mock-up](components/home/caimgs/images/theyay.png)
+![Project Mock-up](assets/images/theyay.png)
 
 ## Languages and Libraries used
 
