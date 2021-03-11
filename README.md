@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# The Yay React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Scss. It was a milestone project which fulfills part of the requirement for Noroff Institute module in CSS frameworks. 
 
-## Available Scripts
+## Languages and Libraries used
 
-In the project directory, you can run:
+React
+Sass / Scss
+Bootstrap
+
 
 ### `npm start`
 
